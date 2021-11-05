@@ -5,6 +5,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import com.collection.dto.Employee;
+
 public class SortList {
 
 	public static void main(String[] args) {

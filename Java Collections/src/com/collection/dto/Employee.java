@@ -1,4 +1,4 @@
-package com.collection.ArrayList;
+package com.collection.dto;
 
 public class Employee {
 
