@@ -8,6 +8,7 @@ import com.collection.dto.Student;
 public class HashMapUserDefined {
 
 	public static void main(String[] args) {
+		
 		Map<Integer, Student> studentMap = new HashMap<>();
 		studentMap.put(1, new Student("Virat", "Kohli"));
 		studentMap.put(2, new Student("Ab", "Devilliars"));
